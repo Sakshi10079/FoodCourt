@@ -6,16 +6,16 @@ A modern **food ordering website** built using **HTML, CSS, and JavaScript**. Or
 🔗 [Try FoodCourt](https://sakshi10079.github.io/FoodCourt/)  
 
 ## 📌 Features  
-- 🛒 **Add to Cart** – Select and order food items  
-- 📋 **Menu Display** – Browse a variety of dishes  
-- 🔍 **Search Functionality** – Find your favorite food easily  
-- 🎨 **Attractive UI** – Responsive & visually appealing design  
-- 📱 **Mobile-Friendly** – Works smoothly on all devices  
+- 🛒 **Add to Cart UI** – Simple and intuitive food selection  
+- 📋 **Menu Display** – Well-organized categories for easy browsing  
+- 🎨 **Responsive Design** – Fully optimized for all screen sizes  
+- 💡 **Bootstrap-Powered** – Modern and mobile-friendly UI  
+
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structure  
 - **CSS** – Styling  
-- **JavaScript** – Interactive elements  
+- **Bootstrap** – Responsive & grid system  
 
 ## 📸 Demo Screenshot  
 ![Screenshot ](https://github.com/user-attachments/assets/e2a7094f-04fd-4c7e-9406-dcfe2ce0c548)
