@@ -19,7 +19,6 @@ A modern **food ordering website** built using **HTML, CSS, and JavaScript**. Or
 
 ## 📸 Demo Screenshot  
 ![Screenshot ](https://github.com/user-attachments/assets/e2a7094f-04fd-4c7e-9406-dcfe2ce0c548)
-![Screenshot](https://github.com/user-attachments/assets/b49f89be-de37-496c-b48c-86f8bdcaff6d)
 
 ## 🎯 How to Use?  
 1. Browse the menu 📜  
